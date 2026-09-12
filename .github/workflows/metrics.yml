@@ -22,7 +22,7 @@ jobs:
           committer_message: "chore: update metrics"
           config_timezone: America/Vancouver
           config_display: large
-          config_order: base.header, base.activity+community, base.repositories, isocalendar, languages, habits
+          config_order: base.header, base.activity+community, base.repositories, isocalendar, languages
           base: header, activity, community, repositories
           base_indepth: no
           repositories_forks: no
@@ -35,9 +35,3 @@ jobs:
           plugin_languages_details: bytes-size, percentage
           plugin_languages_limit: 6
           plugin_languages_indepth: no
-          plugin_habits: yes
-          plugin_habits_from: 500
-          plugin_habits_days: 30
-          plugin_habits_facts: yes
-          plugin_habits_charts: yes
-          plugin_habits_charts_type: classic
