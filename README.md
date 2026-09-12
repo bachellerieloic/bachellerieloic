@@ -6,13 +6,13 @@ Born in France, in Canada for the last 13 years. I built my first PHP websites a
 
 🇫🇷 French · 🇬🇧 English · 🇪🇸 Spanish
 
-## What I build
+## 🧭 What I build
 
 <table>
-  <tr><td align="center" width="140"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/icons/globe-dark.svg"><img src="assets/icons/globe-light.svg" width="30" alt=""></picture><br><sub><b>Web apps</b></sub></td><td align="center" width="140"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/icons/smartphone-dark.svg"><img src="assets/icons/smartphone-light.svg" width="30" alt=""></picture><br><sub><b>Mobile apps</b></sub></td><td align="center" width="140"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/icons/bot-dark.svg"><img src="assets/icons/bot-light.svg" width="30" alt=""></picture><br><sub><b>AI systems</b></sub></td><td align="center" width="140"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/icons/radar-dark.svg"><img src="assets/icons/radar-light.svg" width="30" alt=""></picture><br><sub><b>IoT &amp; trackers</b></sub></td></tr>
+  <tr><td align="center" width="140"><img src="assets/icons/globe.svg" width="44" alt=""><br><sub><b>Web apps</b></sub></td><td align="center" width="140"><img src="assets/icons/smartphone.svg" width="44" alt=""><br><sub><b>Mobile apps</b></sub></td><td align="center" width="140"><img src="assets/icons/bot.svg" width="44" alt=""><br><sub><b>AI systems</b></sub></td><td align="center" width="140"><img src="assets/icons/radar.svg" width="44" alt=""><br><sub><b>IoT &amp; trackers</b></sub></td></tr>
 </table>
 
-## Now: building [Founder Feast](https://founderfeast.com)
+## 🍽️ Now: building Founder Feast
 
 <a href="https://founderfeast.com"><img src="assets/founder-feast.svg" alt="Founder Feast" width="96" align="right"></a>
 
@@ -22,7 +22,7 @@ A Nuxt web app and a React Native app on iOS and Android.
 
 [founderfeast.com](https://founderfeast.com) · [App Store](https://apps.apple.com/ca/app/founder-feast/id6765519776) · [Google Play](https://play.google.com/store/apps/details?id=com.founderfeast.app)
 
-## Stack
+## 🧱 Stack
 
 <table>
   <tr><td><b>Frontend</b></td><td><a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=vue,nuxtjs,ts,tailwind,react,nextjs" alt="Vue, Nuxt, TypeScript, Tailwind, React, Next.js"></a></td></tr>
@@ -31,17 +31,17 @@ A Nuxt web app and a React Native app on iOS and Android.
   <tr><td><b>Infra &amp; tools</b></td><td><a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=aws,vercel,netlify,docker,githubactions,figma" alt="AWS, Vercel, Netlify, Docker, GitHub Actions, Figma"></a></td></tr>
 </table>
 
-## Off the keyboard
+## 🏔️ Off the keyboard
 
 Most of my week is code, and this is the rest of it.
 
 <table>
-  <tr><td align="center" width="140"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/icons/motorbike-dark.svg"><img src="assets/icons/motorbike-light.svg" width="30" alt=""></picture><br><sub><b>Motorcycling</b></sub></td><td align="center" width="140"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/icons/tent-dark.svg"><img src="assets/icons/tent-light.svg" width="30" alt=""></picture><br><sub><b>Camping</b></sub></td><td align="center" width="140"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/icons/mountain-dark.svg"><img src="assets/icons/mountain-light.svg" width="30" alt=""></picture><br><sub><b>Hiking</b></sub></td><td align="center" width="140"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/icons/waves-dark.svg"><img src="assets/icons/waves-light.svg" width="30" alt=""></picture><br><sub><b>Wakesurfing</b></sub></td></tr>
-  <tr><td align="center" width="140"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/icons/snowboarding-dark.svg"><img src="assets/icons/snowboarding-light.svg" width="30" alt=""></picture><br><sub><b>Ski &amp; snowboard</b></sub></td><td align="center" width="140"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/icons/karate-dark.svg"><img src="assets/icons/karate-light.svg" width="30" alt=""></picture><br><sub><b>Muay Thai</b></sub></td><td align="center" width="140"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/icons/dumbbell-dark.svg"><img src="assets/icons/dumbbell-light.svg" width="30" alt=""></picture><br><sub><b>Hyrox</b></sub></td><td align="center" width="140"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/icons/run-dark.svg"><img src="assets/icons/run-light.svg" width="30" alt=""></picture><br><sub><b>Run club</b></sub></td></tr>
-  <tr><td align="center" width="140"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/icons/guitar-dark.svg"><img src="assets/icons/guitar-light.svg" width="30" alt=""></picture><br><sub><b>Guitar</b></sub></td><td align="center" width="140"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/icons/clapperboard-dark.svg"><img src="assets/icons/clapperboard-light.svg" width="30" alt=""></picture><br><sub><b>Video editing</b></sub></td><td align="center" width="140"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/icons/footprints-dark.svg"><img src="assets/icons/footprints-light.svg" width="30" alt=""></picture><br><sub><b>Country dancing</b></sub></td><td align="center" width="140"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/icons/code-dark.svg"><img src="assets/icons/code-light.svg" width="30" alt=""></picture><br><sub><b>Side projects</b></sub></td></tr>
+  <tr><td align="center" width="140"><img src="assets/icons/motorbike.svg" width="44" alt=""><br><sub><b>Motorcycling</b></sub></td><td align="center" width="140"><img src="assets/icons/tent.svg" width="44" alt=""><br><sub><b>Camping</b></sub></td><td align="center" width="140"><img src="assets/icons/mountain.svg" width="44" alt=""><br><sub><b>Hiking</b></sub></td><td align="center" width="140"><img src="assets/icons/waves.svg" width="44" alt=""><br><sub><b>Wakesurfing</b></sub></td></tr>
+  <tr><td align="center" width="140"><img src="assets/icons/snowboarding.svg" width="44" alt=""><br><sub><b>Ski &amp; snowboard</b></sub></td><td align="center" width="140"><img src="assets/icons/karate.svg" width="44" alt=""><br><sub><b>Muay Thai</b></sub></td><td align="center" width="140"><img src="assets/icons/dumbbell.svg" width="44" alt=""><br><sub><b>Hyrox</b></sub></td><td align="center" width="140"><img src="assets/icons/run.svg" width="44" alt=""><br><sub><b>Run club</b></sub></td></tr>
+  <tr><td align="center" width="140"><img src="assets/icons/guitar.svg" width="44" alt=""><br><sub><b>Guitar</b></sub></td><td align="center" width="140"><img src="assets/icons/clapperboard.svg" width="44" alt=""><br><sub><b>Video editing</b></sub></td><td align="center" width="140"><img src="assets/icons/footprints.svg" width="44" alt=""><br><sub><b>Country dancing</b></sub></td><td align="center" width="140"><img src="assets/icons/code.svg" width="44" alt=""><br><sub><b>Side projects</b></sub></td></tr>
 </table>
 
-## Activity
+## 📈 Activity
 
 Most of my commits land in private product repos; the numbers below include them.
 
@@ -55,6 +55,6 @@ Most of my commits land in private product repos; the numbers below include them
   <img alt="Contribution snake" src="https://raw.githubusercontent.com/bachellerieloic/bachellerieloic/output/github-snake.svg">
 </picture>
 
-## Contact
+## 📬 Contact
 
 [LinkedIn](https://www.linkedin.com/in/loic-bachellerie) · [founderfeast.com](https://founderfeast.com) · [loicb.tech](https://loicb.tech) · [loicbachellerie@me.com](mailto:loicbachellerie@me.com)
