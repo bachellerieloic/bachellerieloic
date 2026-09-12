@@ -1,4 +1,4 @@
-<a href="https://founderfeast.com"><img src="assets/founder-feast.svg" alt="Founder Feast" height="44" align="left"></a>
+<a href="https://founderfeast.com"><img src="assets/founder-feast.svg" alt="Founder Feast" height="34" align="left"></a>
 
 # Loic Bachellerie
 
