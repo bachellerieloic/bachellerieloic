@@ -4,6 +4,8 @@
 
 Full-stack product engineer in Kelowna, BC. I ship Vue/Nuxt web apps, React Native mobile apps and AI products, and I co-founded Founder Feast.
 
+🇫🇷 French · 🇬🇧 English · 🇪🇸 Spanish
+
 ## Now: building [Founder Feast](https://founderfeast.com)
 
 An invite-only dinner club for founders. Every Thursday, five hand-matched founders share a table at a restaurant we picked, in Vancouver, San Francisco and Los Angeles. 100+ founders have taken a seat so far.
