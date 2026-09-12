@@ -27,7 +27,9 @@ A Nuxt web app and a React Native app on iOS and Android.
 
 Most of my commits land in private product repos; the numbers below include them.
 
-<img src="https://raw.githubusercontent.com/bachellerieloic/bachellerieloic/metrics/github-metrics.svg" alt="GitHub metrics: commits, lines changed, languages, contribution calendar with streaks, and coding habits">
+<img src="https://raw.githubusercontent.com/bachellerieloic/bachellerieloic/metrics/github-metrics.svg" alt="GitHub metrics: commits, pull requests, repositories and a full-year contribution calendar with streaks">
+
+<img src="https://raw.githubusercontent.com/bachellerieloic/bachellerieloic/metrics/top-langs.svg" alt="Most used languages across my repositories">
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/bachellerieloic/bachellerieloic/output/github-snake-dark.svg">
