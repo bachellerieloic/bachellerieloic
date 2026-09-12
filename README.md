@@ -6,7 +6,7 @@ Full-stack product engineer in Kelowna, BC. I ship Vue/Nuxt web apps, React Nati
 
 ## Now: building [Founder Feast](https://founderfeast.com)
 
-<a href="https://founderfeast.com"><img src="assets/founder-feast-banner.png" alt="Founder Feast. Offline is the new luxury. Curated dinners for founders in Vancouver, San Francisco and Los Angeles." width="720"></a>
+<a href="https://founderfeast.com"><img src="assets/founder-feast.svg" alt="Founder Feast" width="96" align="right"></a>
 
 An invite-only dinner club for founders. Every Thursday, five hand-matched founders share a table at a restaurant we picked, in Vancouver, San Francisco and Los Angeles. 100+ founders have taken a seat so far.
 
