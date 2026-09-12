@@ -31,6 +31,11 @@ jobs:
           repositories_forks: no
           plugin_isocalendar: yes
           plugin_isocalendar_duration: full-year
+      - name: Collect dashboard render
+        run: |
+          ls -la /metrics_renders || { echo "::error::renders folder missing"; exit 1; }
+          cp /metrics_renders/github-metrics.svg ./github-metrics.svg
+          echo "dashboard render: $(wc -c < github-metrics.svg) bytes"
       - name: Generate top languages card
         uses: stats-organization/github-readme-stats-action@v2
         with:
