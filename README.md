@@ -8,7 +8,7 @@ Born in France, in Canada for the last 13 years. I built my first PHP websites a
 
 ## What I build
 
-<table>
+<table width="100%">
   <tr><td align="center" width="25%"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/icons/globe-dark.svg"><img src="assets/icons/globe-light.svg" width="30" alt=""></picture><br><sub><b>Web apps</b></sub></td><td align="center" width="25%"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/icons/smartphone-dark.svg"><img src="assets/icons/smartphone-light.svg" width="30" alt=""></picture><br><sub><b>Mobile apps</b></sub></td><td align="center" width="25%"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/icons/bot-dark.svg"><img src="assets/icons/bot-light.svg" width="30" alt=""></picture><br><sub><b>AI systems</b></sub></td><td align="center" width="25%"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/icons/radar-dark.svg"><img src="assets/icons/radar-light.svg" width="30" alt=""></picture><br><sub><b>IoT &amp; trackers</b></sub></td></tr>
 </table>
 
@@ -24,7 +24,7 @@ A Nuxt web app and a React Native app on iOS and Android.
 
 ## Stack
 
-<table>
+<table width="100%">
   <tr><td><b>Frontend</b></td><td><a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=vue,nuxtjs,ts,tailwind,react,nextjs" alt="Vue, Nuxt, TypeScript, Tailwind, React, Next.js"></a></td></tr>
   <tr><td><b>Mobile</b> (React Native / Expo)</td><td><a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=react,apple,androidstudio" alt="React Native, iOS, Android"></a></td></tr>
   <tr><td><b>Backend &amp; data</b></td><td><a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=nodejs,supabase,firebase,mongodb,postgres" alt="Node.js, Supabase, Firebase, MongoDB, PostgreSQL"></a></td></tr>
@@ -35,7 +35,7 @@ A Nuxt web app and a React Native app on iOS and Android.
 
 Most of my week is code, and this is the rest of it.
 
-<table>
+<table width="100%">
   <tr><td align="center" width="25%"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/icons/motorbike-dark.svg"><img src="assets/icons/motorbike-light.svg" width="30" alt=""></picture><br><sub><b>Motorcycling</b></sub></td><td align="center" width="25%"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/icons/tent-dark.svg"><img src="assets/icons/tent-light.svg" width="30" alt=""></picture><br><sub><b>Camping</b></sub></td><td align="center" width="25%"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/icons/mountain-dark.svg"><img src="assets/icons/mountain-light.svg" width="30" alt=""></picture><br><sub><b>Hiking</b></sub></td><td align="center" width="25%"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/icons/waves-dark.svg"><img src="assets/icons/waves-light.svg" width="30" alt=""></picture><br><sub><b>Wakesurfing</b></sub></td></tr>
   <tr><td align="center" width="25%"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/icons/snowboarding-dark.svg"><img src="assets/icons/snowboarding-light.svg" width="30" alt=""></picture><br><sub><b>Ski &amp; snowboard</b></sub></td><td align="center" width="25%"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/icons/karate-dark.svg"><img src="assets/icons/karate-light.svg" width="30" alt=""></picture><br><sub><b>Muay Thai</b></sub></td><td align="center" width="25%"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/icons/dumbbell-dark.svg"><img src="assets/icons/dumbbell-light.svg" width="30" alt=""></picture><br><sub><b>Hyrox</b></sub></td><td align="center" width="25%"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/icons/run-dark.svg"><img src="assets/icons/run-light.svg" width="30" alt=""></picture><br><sub><b>Run club</b></sub></td></tr>
   <tr><td align="center" width="25%"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/icons/guitar-dark.svg"><img src="assets/icons/guitar-light.svg" width="30" alt=""></picture><br><sub><b>Guitar</b></sub></td><td align="center" width="25%"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/icons/clapperboard-dark.svg"><img src="assets/icons/clapperboard-light.svg" width="30" alt=""></picture><br><sub><b>Video editing</b></sub></td><td align="center" width="25%"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/icons/footprints-dark.svg"><img src="assets/icons/footprints-light.svg" width="30" alt=""></picture><br><sub><b>Two-step &amp; line dance</b></sub></td><td align="center" width="25%"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/icons/code-dark.svg"><img src="assets/icons/code-light.svg" width="30" alt=""></picture><br><sub><b>Side projects</b></sub></td></tr>
