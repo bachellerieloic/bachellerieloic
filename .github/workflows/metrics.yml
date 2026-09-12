@@ -2,6 +2,7 @@ name: Metrics
 on:
   schedule:
     - cron: "7 4 * * *"
+    - cron: "7 16 * * *"
   workflow_dispatch:
 jobs:
   metrics:
@@ -10,16 +11,16 @@ jobs:
     permissions:
       contents: write
     steps:
+      - uses: actions/checkout@v4
+        with:
+          ref: metrics
       - uses: lowlighter/metrics@v3.34
         with:
           token: ${{ secrets.METRICS_TOKEN }}
-          committer_token: ${{ secrets.GITHUB_TOKEN }}
           user: bachellerieloic
           template: classic
           filename: github-metrics.svg
-          output_action: commit
-          committer_branch: metrics
-          committer_message: "chore: update metrics"
+          output_action: none
           config_timezone: America/Vancouver
           config_display: large
           config_padding: 0, 4
@@ -35,3 +36,16 @@ jobs:
           plugin_languages_limit: 8
           plugin_languages_categories: markup, programming, data, prose
           plugin_languages_indepth: no
+      - name: Refuse to publish an incomplete image
+        run: |
+          test -s github-metrics.svg || { echo "::error::github-metrics.svg was not generated"; exit 1; }
+          grep -q 'field language details' github-metrics.svg || { echo "::error::languages section is empty, keeping previous image"; exit 1; }
+          if grep -q 'Unexpected error' github-metrics.svg; then echo "::error::plugin error inside image, keeping previous image"; exit 1; fi
+          echo "image ok: $(wc -c < github-metrics.svg) bytes"
+      - name: Commit to metrics branch
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add github-metrics.svg
+          git commit -m "chore: update metrics" || { echo "no change"; exit 0; }
+          git push origin HEAD:metrics
