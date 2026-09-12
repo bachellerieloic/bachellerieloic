@@ -22,6 +22,7 @@ jobs:
           committer_message: "chore: update metrics"
           config_timezone: America/Vancouver
           config_display: large
+          config_padding: 0, 4
           config_order: base.header, base.activity+community, base.repositories, isocalendar, languages
           base: header, activity, community, repositories
           base_indepth: no
