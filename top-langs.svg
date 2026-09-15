@@ -148,7 +148,7 @@
           data-testid="lang-progress"
           x="167.81"
           y="0"
-          width="135.38"
+          width="135.39"
           height="8"
           fill="#3178c6"
         />
@@ -156,7 +156,7 @@
         <rect
           mask="url(#rect-mask)"
           data-testid="lang-progress"
-          x="303.19"
+          x="303.2"
           y="0"
           width="91.37"
           height="8"
@@ -166,7 +166,7 @@
         <rect
           mask="url(#rect-mask)"
           data-testid="lang-progress"
-          x="394.56"
+          x="394.57"
           y="0"
           width="19.96"
           height="8"
@@ -176,7 +176,7 @@
         <rect
           mask="url(#rect-mask)"
           data-testid="lang-progress"
-          x="404.52"
+          x="404.53"
           y="0"
           width="17.35"
           height="8"
@@ -186,7 +186,7 @@
         <rect
           mask="url(#rect-mask)"
           data-testid="lang-progress"
-          x="411.87"
+          x="411.88"
           y="0"
           width="16.990000000000002"
           height="8"
@@ -196,7 +196,7 @@
         <rect
           mask="url(#rect-mask)"
           data-testid="lang-progress"
-          x="418.86"
+          x="418.87"
           y="0"
           width="16.61"
           height="8"
@@ -206,7 +206,7 @@
         <rect
           mask="url(#rect-mask)"
           data-testid="lang-progress"
-          x="425.47"
+          x="425.48"
           y="0"
           width="14.530000000000001"
           height="8"
@@ -219,14 +219,14 @@
     <g class="stagger" style="animation-delay: 450ms">
       <circle cx="5" cy="6" r="5" fill="#41b883" />
       <text data-testid="lang-name" x="15" y="10" class='lang-name'>
-        Vue 39.03%
+        Vue 39.02%
       </text>
     </g>
   </g><g transform="translate(0, 25)">
     <g class="stagger" style="animation-delay: 600ms">
       <circle cx="5" cy="6" r="5" fill="#3178c6" />
       <text data-testid="lang-name" x="15" y="10" class='lang-name'>
-        TypeScript 31.48%
+        TypeScript 31.49%
       </text>
     </g>
   </g><g transform="translate(0, 50)">
