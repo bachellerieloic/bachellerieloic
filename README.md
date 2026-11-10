@@ -2,7 +2,7 @@
 
 Full-stack product engineer in Kelowna, BC, and co-founder of Founder Feast.
 
-Born in France, in Canada for the last 13 years. I built my first PHP websites at 15 and never really stopped. Today I ship Vue/Nuxt web apps, iOS and Android apps with React Native, AI systems, and IoT and GPS-tracking products.
+Born in France, in Canada for the last 13 years. I built my first PHP websites at 15 and never really stopped. Today I ship Vue/Nuxt web apps, iOS and Android apps with React Native, AI systems, and IoT
 
 🇫🇷 French · 🇬🇧 English · 🇪🇸 Spanish
 
