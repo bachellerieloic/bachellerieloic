@@ -138,7 +138,7 @@
           data-testid="lang-progress"
           x="0"
           y="0"
-          width="165.25"
+          width="165.21"
           height="8"
           fill="#3178c6"
         />
@@ -146,9 +146,9 @@
         <rect
           mask="url(#rect-mask)"
           data-testid="lang-progress"
-          x="165.25"
+          x="165.21"
           y="0"
-          width="142.53"
+          width="142.55"
           height="8"
           fill="#41b883"
         />
@@ -156,7 +156,7 @@
         <rect
           mask="url(#rect-mask)"
           data-testid="lang-progress"
-          x="307.78"
+          x="307.76"
           y="0"
           width="87.08"
           height="8"
@@ -166,7 +166,7 @@
         <rect
           mask="url(#rect-mask)"
           data-testid="lang-progress"
-          x="394.85999999999996"
+          x="394.84"
           y="0"
           width="13.13"
           height="8"
@@ -176,7 +176,7 @@
         <rect
           mask="url(#rect-mask)"
           data-testid="lang-progress"
-          x="407.98999999999995"
+          x="407.96999999999997"
           y="0"
           width="17.2"
           height="8"
@@ -186,7 +186,7 @@
         <rect
           mask="url(#rect-mask)"
           data-testid="lang-progress"
-          x="415.18999999999994"
+          x="415.16999999999996"
           y="0"
           width="15.32"
           height="8"
@@ -196,9 +196,9 @@
         <rect
           mask="url(#rect-mask)"
           data-testid="lang-progress"
-          x="420.50999999999993"
+          x="420.48999999999995"
           y="0"
-          width="15.120000000000001"
+          width="15.129999999999999"
           height="8"
           fill="#c6538c"
         />
@@ -206,7 +206,7 @@
         <rect
           mask="url(#rect-mask)"
           data-testid="lang-progress"
-          x="425.62999999999994"
+          x="425.61999999999995"
           y="0"
           width="14.379999999999999"
           height="8"
@@ -219,7 +219,7 @@
     <g class="stagger" style="animation-delay: 450ms">
       <circle cx="5" cy="6" r="5" fill="#3178c6" />
       <text data-testid="lang-name" x="15" y="10" class='lang-name'>
-        TypeScript 38.43%
+        TypeScript 38.42%
       </text>
     </g>
   </g><g transform="translate(0, 25)">
